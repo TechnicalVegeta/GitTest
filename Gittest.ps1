@@ -1,0 +1,2 @@
+#test commands
+Get-Command
